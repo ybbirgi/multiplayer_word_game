@@ -1,0 +1,32 @@
+{
+  "culture": "en",
+  "texts": {
+    "Menu:Home": "Home",
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io.",
+    "GameTypes:01": "Classic Mode",
+    "GameTypes:02": "Random Char Generation Mode",
+    "UserStatusType:01": "Online",
+    "UserStatusType:02": "InGame",
+    "UserStatusType:03": "Away",
+    "LoginResultType:01": "Success.",
+    "LoginResultType:02": "Invalid Username or Password.",
+    "LoginResultType:03": "Not allowed.",
+    "LoginResultType:04": "Account locked out.",
+    "LoginResultType:05": "Requires two factor.",
+    "GameResultType:01" : "Win",
+    "GameResultType:02" : "Lose",
+    "GameResultType:03" : "Draw",
+    "WordGame.Login:00001": "Error occurred while creating token.",
+    "WordGame.Challenge:00001": "You cannot challenge yourself.",
+    "WordGame.Challenge:00002": "There is already a pending challenge.",
+    "WordGame.Challenge:00003": "The challenged user has an active different challenge.",
+    "WordGame.Challenge:00004": "The challenged user is not active.",
+    "WordGame.Challenge:00005": "Challenge not found.",
+    "WordGame.Challenge:00006": "User is already in the game.",
+    "WordGame.Game:00001": "Game not found.",
+    "WordGame.PreGameInfo:00001": "Invalid parameter.",
+    "WordGame.PreGameInfo:00002": "Pre-game information not found.",
+    "WordGame.PreGameInfo:00003": "Game not found."
+  }
+}

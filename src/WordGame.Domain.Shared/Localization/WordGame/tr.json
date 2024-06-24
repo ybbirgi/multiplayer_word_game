@@ -1,0 +1,32 @@
+{
+  "culture": "tr",
+  "texts": {
+    "Menu:Home": "Ana sayfa",
+    "Welcome": "Hoşgeldiniz",
+    "LongWelcomeMessage": "Uygulamaya hoşgeldiniz. Bu, ABP framework'ü üzerine bina edilmiş bir başlangıç projesidir. Daha fazla bilgi için abp.io adresini ziyaret edebilirsiniz.",
+    "GameTypes:01": "Klasik Mod",
+    "GameTypes:02": "Rasgele Harf Sabiti Modu",
+    "UserStatusType:01": "Aktif",
+    "UserStatusType:02": "Oyunda",
+    "UserStatusType:03": "Uzakta",
+    "LoginResultType:01": "Başarılı.",
+    "LoginResultType:02": "Kullanıcı adı ya da şifre hatalı.",
+    "LoginResultType:03": "İzin yok.",
+    "LoginResultType:04": "Hesap kilitlenmiş.",
+    "LoginResultType:05": "İkili doğrulama gerekli.",
+    "GameResultType:01": "Kazandın",
+    "GameResultType:02": "Kaybettin",
+    "GameResultType:03": "Berabere",
+    "WordGame.Login:00001": "Token oluşturma sırasında hata oluştu.",
+    "WordGame.Challenge:00001": "Kendine meydan okuyamassın.",
+    "WordGame.Challenge:00002": "Zaten bekleyen bir meydan okuma var.",
+    "WordGame.Challenge:00003": "Meydan okunan kullanıcının aktif farklı bir meydan okuması var.",
+    "WordGame.Challenge:00004": "Meydan okunan kullanıcı aktif değil.",
+    "WordGame.Challenge:00005": "Meydan okuma bulunamadı.",
+    "WordGame.Challenge:00006": "Kullanıcı zaten oyunda.",
+    "WordGame.Game:00001": "Oyun bulunamadı.",
+    "WordGame.PreGameInfo:00001": "Geçersiz parametre.",
+    "WordGame.PreGameInfo:00002": "Ön hazırlık aşaması bulunamadı.",
+    "WordGame.PreGameInfo:00003": "Oyun bulunamadı."
+  }
+}
